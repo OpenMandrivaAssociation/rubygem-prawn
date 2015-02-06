@@ -3,7 +3,7 @@
 Summary:    A fast and nimble PDF generator for Ruby
 Name:       rubygem-%{oname}
 Version:    0.8.4
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    Ruby or GPLv2
 URL:        http://wiki.github.com/sandal/prawn
