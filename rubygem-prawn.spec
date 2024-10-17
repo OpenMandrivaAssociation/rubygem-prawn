@@ -6,7 +6,7 @@ Version:    0.8.4
 Release:    2
 Group:      Development/Ruby
 License:    Ruby or GPLv2
-URL:        http://wiki.github.com/sandal/prawn
+URL:        https://wiki.github.com/sandal/prawn
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
